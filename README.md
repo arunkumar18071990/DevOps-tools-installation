@@ -17,4 +17,4 @@
 ## Kubernetes 🛳️
 
 * [Kubectl](Kubectl/kubectl.sh)
-* [Kubeadm](K8s-setup-kubeadm/README.md)
+* [Kubeadm](Kubeadm/readme.md)
